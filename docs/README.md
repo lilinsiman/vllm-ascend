@@ -8,7 +8,7 @@ Live doc: <https://docs.vllm.ai/projects/ascend>
 # Install dependencies.
 pip install -r requirements-docs.txt
 
-# Build the docs.
+# Build the docs
 make clean
 make html
 
